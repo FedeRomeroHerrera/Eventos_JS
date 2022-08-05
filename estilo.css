@@ -1,0 +1,45 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.contenedor {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 150px;
+}
+
+.v {
+    background-image: url(Images/vaca.jpg);
+    background-size: cover;
+    
+}
+
+.c {
+    background-image: url(Images/caballo.jpg);
+    background-size: cover;
+}
+
+.p {
+    background-image: url(Images/perro.jpg);
+    background-size: cover;
+}
+
+.g {
+    background-image: url(Images/gato.jpg);
+    background-size: cover; 
+}
+
+button {
+    height: 300px;
+    width: 300px;
+}
